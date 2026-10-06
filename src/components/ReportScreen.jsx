@@ -1,3 +1,4 @@
+import { useEffect } from 'react';
 import {
   CartesianGrid,
   Legend,
@@ -11,6 +12,7 @@ import {
 import { useGameStore } from '../store/useGameStore';
 import { computeStats, fmtMoney, fmtPct } from '../engine/engine';
 import Leaderboard from './Leaderboard';
+import { recordTopScore } from '../utils/playerScores';
 
 function StatCard({ label, value, tone }) {
   const tones = {
@@ -29,6 +31,11 @@ function StatCard({ label, value, tone }) {
 export default function ReportScreen() {
   const game = useGameStore((s) => s.game);
   const restart = useGameStore((s) => s.restart);
+  useEffect(() => {
+    if (!game) return;
+    recordTopScore(game.difficulty.id, computeStats(game).finalEquity - game.difficulty.startingCash);
+  }, [game]);
+
   if (!game) return null;
 
   const stats = computeStats(game);

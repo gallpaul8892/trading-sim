@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { DIFFICULTIES } from '../engine/difficulties';
 import { fmtMoney } from '../engine/engine';
+import { getTopScore } from '../utils/playerScores';
 
 const NAMES = [
   'Marcus Hale', 'Priya Nair', 'Tobias Reinhardt', 'Yuki Tanaka', 'Elena Voss',
@@ -27,9 +28,15 @@ export default function Leaderboard({ difficultyId, selectable = false, player =
   const [tab, setTab] = useState(difficultyId || 'casual');
   const id = selectable ? tab : difficultyId;
   let rows = getLeaderboard(id);
+  const storedTopScore = getTopScore(id);
+  const playerProfit = player
+    ? storedTopScore === null
+      ? player.profit
+      : Math.max(storedTopScore, player.profit)
+    : storedTopScore;
 
-  if (player) {
-    rows = [...rows, { name: 'You', profit: player.profit, you: true }]
+  if (playerProfit !== null) {
+    rows = [...rows, { name: 'You', profit: playerProfit, you: true }]
       .sort((a, b) => b.profit - a.profit)
       .slice(0, 10);
   }
@@ -72,13 +79,13 @@ export default function Leaderboard({ difficultyId, selectable = false, player =
           </li>
         ))}
       </ol>
-      {player && !rows.some((r) => r.you) && (
+      {playerProfit !== null && !rows.some((r) => r.you) && (
         <div className="mt-2 pt-2 border-t border-slate-800 flex text-sm text-slate-400">
           <span className="w-8">11+</span>
           <span className="flex-1">You</span>
           <span className="font-mono">
-            {player.profit >= 0 ? '+' : ''}
-            {fmtMoney(player.profit)}
+            {playerProfit >= 0 ? '+' : ''}
+            {fmtMoney(playerProfit)}
           </span>
         </div>
       )}

@@ -24,13 +24,14 @@ npm.cmd run build                   # production build
 
 ## How to Play
 
-1. Pick a difficulty (Casual $100k/1x, Traded Desk $25k/2x, Hedge Fund $10k/5x).
+1. Pick Casual difficulty to play; Traded Desk and Hedge Fund are marked Coming Soon.
 2. Use the Light mode / Dark mode button to choose a theme; your preference is saved in this browser.
-3. Each month, read the news wire, then place trades in the Trading Desk.
-4. Click **Advance to Next Date** — prices move, fees and borrow costs accrue,
-   and margin maintenance is enforced. If your Equity / Exposure ratio falls
-   below the maintenance level, the engine force-liquidates your worst position.
-5. Survive to Dec 2009 and compare your equity curve against buy-and-hold.
+3. Your best profit score is saved locally in this browser for each difficulty.
+4. In Casual, buy shares with **Buy / Long** and sell shares you own with
+   **Sell / Close**. Short selling is unavailable.
+5. Each month, read the news wire, then place trades in the Trading Desk.
+6. Click **Advance to Next Date** — prices move and fees accrue.
+7. Survive to Dec 2009 and compare your equity curve against buy-and-hold.
 
 ## Architecture
 
