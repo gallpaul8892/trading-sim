@@ -1,6 +1,7 @@
 import { useGameStore, SCENARIOS } from '../store/useGameStore';
 import { DIFFICULTIES } from '../engine/difficulties';
 import { fmtMoney, fmtPct } from '../engine/engine';
+import Leaderboard from './Leaderboard';
 
 export default function SetupScreen() {
   const startGame = useGameStore((s) => s.startGame);
@@ -31,6 +32,8 @@ export default function SetupScreen() {
             </span>
           </div>
         </div>
+
+        <Leaderboard selectable difficultyId="casual" />
 
         <div className="text-xs uppercase tracking-widest text-slate-500 mb-3">
           Select Difficulty

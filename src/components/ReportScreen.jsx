@@ -10,6 +10,7 @@ import {
 } from 'recharts';
 import { useGameStore } from '../store/useGameStore';
 import { computeStats, fmtMoney, fmtPct } from '../engine/engine';
+import Leaderboard from './Leaderboard';
 
 function StatCard({ label, value, tone }) {
   const tones = {
@@ -136,6 +137,11 @@ export default function ReportScreen() {
           </ul>
         </div>
       )}
+
+      <Leaderboard
+        difficultyId={game.difficulty.id}
+        player={{ profit: stats.finalEquity - game.difficulty.startingCash }}
+      />
 
       <div className="text-center">
         <button
