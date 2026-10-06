@@ -21,9 +21,9 @@ export default function SetupScreen() {
           <div className="text-xs uppercase tracking-widest text-slate-500 mb-1">Scenario</div>
           <div className="text-xl font-semibold">{scenario.scenario_config.title}</div>
           <p className="text-slate-400 text-sm mt-1">{scenario.scenario_config.description}</p>
-          <div className="flex gap-2 mt-3">
+          <div className="flex flex-wrap gap-2 mt-3">
             {Object.keys(scenario.timeline[0].prices).map((t) => (
-              <span key={t} className="text-xs bg-slate-800 text-slate-300 px-2 py-1 rounded">
+              <span key={t} className="text-xs bg-slate-800 text-slate-300 px-2 py-1 rounded whitespace-nowrap">
                 {t}
               </span>
             ))}
