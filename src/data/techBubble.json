@@ -1,0 +1,3335 @@
+{
+  "scenario_config": {
+    "title": "The 2000s: Boom, Bust & the iPhone Era",
+    "description": "Trade 10 tech stocks — MSFT, AAPL, AMZN, CSCO, INTC, ORCL, SUNW, YHOO, EBAY, QCOM — across a full decade: the dot-com peak and crash, the recovery, the iPhone revolution, and the 2008 financial crisis. 120 monthly decision points from January 2000 to December 2009.",
+    "base_currency": "USD",
+    "step_label": "Month"
+  },
+  "timeline": [
+    {
+      "date": "2000-01",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Signals Vigilance on Inflation as Economy Runs Hot",
+          "summary": "Greenspan hints further rate hikes may be needed to cool the red-hot tech-driven expansion."
+        },
+        {
+          "ticker": "MSFT",
+          "headline": "Gates Steps Down as CEO, Ballmer Takes the Helm",
+          "summary": "Leadership transition at the software giant as the DOJ antitrust case looms over Redmond."
+        },
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Eyes 'Most Valuable Company' Crown as Orders Surge",
+          "summary": "Networking gear demand seems insatiable; market cap closes in on Microsoft and GE."
+        }
+      ],
+      "prices": {
+        "MSFT": 30.09,
+        "AAPL": 0.88,
+        "AMZN": 64.56,
+        "CSCO": 45.7,
+        "INTC": 41.9,
+        "ORCL": 27.9,
+        "SUNW": 25.3,
+        "YHOO": 108.2,
+        "EBAY": 10.85,
+        "QCOM": 44.6
+      }
+    },
+    {
+      "date": "2000-02",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Raises Rates to 5.75%",
+          "summary": "Central bank tightens policy, citing imbalance between demand and labor supply."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Posts $323M Quarterly Loss, Vows Path to Profitability",
+          "summary": "Bezos defends aggressive expansion spend as skeptics question the cash burn rate."
+        }
+      ],
+      "prices": {
+        "MSFT": 29.33,
+        "AAPL": 1,
+        "AMZN": 53.44,
+        "CSCO": 51.2,
+        "INTC": 44.3,
+        "ORCL": 31.4,
+        "SUNW": 28.9,
+        "YHOO": 112.4,
+        "EBAY": 12.4,
+        "QCOM": 52.3
+      }
+    },
+    {
+      "date": "2000-03",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Nasdaq Touches 5,048 — Analysts Ask: Is This a Bubble?",
+          "summary": "Tech index hits an all-time intraday peak as retail money floods into internet stocks."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Rides iMac Momentum, Power Mac Sales Beat Street",
+          "summary": "Cupertino extends its comeback with strong consumer demand and improving margins."
+        },
+        {
+          "ticker": "QCOM",
+          "headline": "Qualcomm Soars on CDMA Licensing Wins",
+          "summary": "Wireless royalty model has analysts racing to raise price targets."
+        }
+      ],
+      "prices": {
+        "MSFT": 32.86,
+        "AAPL": 1.25,
+        "AMZN": 60.31,
+        "CSCO": 53.8,
+        "INTC": 48.1,
+        "ORCL": 35.8,
+        "SUNW": 33.4,
+        "YHOO": 102.6,
+        "EBAY": 14.9,
+        "QCOM": 58.9
+      }
+    },
+    {
+      "date": "2000-04",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "Judge Jackson Rules Microsoft Violated Antitrust Law",
+          "summary": "Landmark ruling finds illegal monopoly maintenance; talk of a company breakup sends shockwaves."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Nasdaq Suffers Record Single-Day Point Drop",
+          "summary": "Panic selling grips tech as the bubble begins to deflate; $1 trillion in paper wealth evaporates in a week."
+        },
+        {
+          "ticker": "INTC",
+          "headline": "Intel Flags Softening PC Orders",
+          "summary": "Chip giant admits corporate buyers are pausing; semis sell off broadly."
+        }
+      ],
+      "prices": {
+        "MSFT": 25.2,
+        "AAPL": 1.06,
+        "AMZN": 52.69,
+        "CSCO": 48.3,
+        "INTC": 43.5,
+        "ORCL": 30.6,
+        "SUNW": 29.8,
+        "YHOO": 89.3,
+        "EBAY": 12.2,
+        "QCOM": 51.4
+      }
+    },
+    {
+      "date": "2000-05",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Hikes 50bp to 6.5% — Most Aggressive Move in 5 Years",
+          "summary": "Sixth rate increase in a tightening cycle squeezes speculative growth stocks."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "Sun's Server Boom Shows First Cracks",
+          "summary": "The 'dot in dot-com' still growing fast, but startup customers are vanishing."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.36,
+        "AAPL": 0.9,
+        "AMZN": 46.31,
+        "CSCO": 42.6,
+        "INTC": 39.8,
+        "ORCL": 27.9,
+        "SUNW": 27.2,
+        "YHOO": 82.1,
+        "EBAY": 11.1,
+        "QCOM": 46.8
+      }
+    },
+    {
+      "date": "2000-06",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "Breakup Order: Judge Splits Microsoft in Two",
+          "summary": "Structural remedy ordered, though appeals court stay offers a lifeline; volatility expected."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "Lehman Analyst Warns Amazon Bonds Face 'Credit Risk'",
+          "summary": "Controversial report says the e-tailer's cash position could deteriorate within a year."
+        }
+      ],
+      "prices": {
+        "MSFT": 27.11,
+        "AAPL": 0.93,
+        "AMZN": 35.44,
+        "CSCO": 47.9,
+        "INTC": 44.6,
+        "ORCL": 33.4,
+        "SUNW": 31.6,
+        "YHOO": 88.4,
+        "EBAY": 13.6,
+        "QCOM": 54.2
+      }
+    },
+    {
+      "date": "2000-07",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Dot-Com Shakeout Accelerates: Pets.com and eToys Struggle",
+          "summary": "Second-tier internet firms run out of runway as venture funding dries up."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "Yahoo Misses on Ad Revenue Slowdown",
+          "summary": "Portal model under fire as dot-com advertisers go bust en masse."
+        }
+      ],
+      "prices": {
+        "MSFT": 25.41,
+        "AAPL": 0.95,
+        "AMZN": 33.75,
+        "CSCO": 44.2,
+        "INTC": 47.2,
+        "ORCL": 31.8,
+        "SUNW": 30.1,
+        "YHOO": 84.2,
+        "EBAY": 12.9,
+        "QCOM": 49.6
+      }
+    },
+    {
+      "date": "2000-08",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Unveils G4 Cube at Macworld",
+          "summary": "Sleek new design wows press, but the $1,799 price tag raises eyebrows among analysts."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "eBay Beats Street Again — Profitable Since Day One",
+          "summary": "While peers burn cash, the auction house quietly compounds earnings."
+        }
+      ],
+      "prices": {
+        "MSFT": 27.92,
+        "AAPL": 1.45,
+        "AMZN": 41.19,
+        "CSCO": 48.5,
+        "INTC": 49.3,
+        "ORCL": 38.2,
+        "SUNW": 34.8,
+        "YHOO": 90.6,
+        "EBAY": 15.4,
+        "QCOM": 56.8
+      }
+    },
+    {
+      "date": "2000-09",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Issues Shock Profit Warning — Stock Halved in a Day",
+          "summary": "G4 Cube sales disappoint and education demand slumps; shares crater on massive volume."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Oil Tops $35, Adding Stagflation Fears to Tech Woes",
+          "summary": "Energy costs compound the market's anxiety heading into Q4."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.19,
+        "AAPL": 0.8,
+        "AMZN": 36.06,
+        "CSCO": 41.1,
+        "INTC": 41.6,
+        "ORCL": 42.6,
+        "SUNW": 38.9,
+        "YHOO": 76.3,
+        "EBAY": 13.8,
+        "QCOM": 52.3
+      }
+    },
+    {
+      "date": "2000-10",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Q3: Sales Up 79%, Losses Still Mount",
+          "summary": "Growth story intact but profitability remains elusive; company touts pro-forma operating improvements."
+        },
+        {
+          "ticker": "ORCL",
+          "headline": "Oracle Insists Database Demand Remains Strong",
+          "summary": "Ellison dismisses slowdown talk, but enterprise pipeline whispers grow louder."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.56,
+        "AAPL": 0.6,
+        "AMZN": 27.75,
+        "CSCO": 37.4,
+        "INTC": 38.9,
+        "ORCL": 39.1,
+        "SUNW": 35.2,
+        "YHOO": 68.9,
+        "EBAY": 14.6,
+        "QCOM": 47.9
+      }
+    },
+    {
+      "date": "2000-11",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Contested Election: Bush v. Gore Paralyzes Washington",
+          "summary": "Florida recount uncertainty weighs on already fragile market sentiment."
+        },
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Customers Delay Equipment Orders",
+          "summary": "Carrier capex cancellations hint the networking buildout has peaked."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.09,
+        "AAPL": 0.55,
+        "AMZN": 22.13,
+        "CSCO": 31.8,
+        "INTC": 34.2,
+        "ORCL": 33.8,
+        "SUNW": 29.6,
+        "YHOO": 54.2,
+        "EBAY": 16.2,
+        "QCOM": 41.6
+      }
+    },
+    {
+      "date": "2000-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Nasdaq Ends 2000 Down 39% — Worst Year in Its History",
+          "summary": "The bubble has decisively burst; $2.5 trillion of Nasdaq market value erased since March."
+        },
+        {
+          "ticker": "MSFT",
+          "headline": "Microsoft Warns on Q2 Revenue, Cites Slowing PC Demand",
+          "summary": "Even the software bellwether concedes the downturn is broadening."
+        }
+      ],
+      "prices": {
+        "MSFT": 14.38,
+        "AAPL": 0.37,
+        "AMZN": 15.56,
+        "CSCO": 28.4,
+        "INTC": 30.1,
+        "ORCL": 29.6,
+        "SUNW": 24.8,
+        "YHOO": 31.4,
+        "EBAY": 15.4,
+        "QCOM": 38.2
+      }
+    },
+    {
+      "date": "2001-01",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Cuts Rates Twice in One Month in Surprise Moves",
+          "summary": "Greenspan slashes 100bp in January alone, signaling recession fears; beaten-down techs rally."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "Jobs Unveils Titanium PowerBook at Macworld SF",
+          "summary": "Product innovation continues despite brutal share-price decline."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.34,
+        "AAPL": 0.55,
+        "AMZN": 15.81,
+        "CSCO": 31.6,
+        "INTC": 32.5,
+        "ORCL": 30.2,
+        "SUNW": 23.4,
+        "YHOO": 30.8,
+        "EBAY": 16.8,
+        "QCOM": 42.4
+      }
+    },
+    {
+      "date": "2001-02",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Lays Off 1,300, Closes Distribution Center",
+          "summary": "Cost-cutting program aims for pro-forma profitability by Q4; bondholders still nervous."
+        },
+        {
+          "ticker": "INTC",
+          "headline": "Intel Cuts 5,000 Jobs as Chip Demand Evaporates",
+          "summary": "First major layoffs in years underscore the depth of the PC downturn."
+        }
+      ],
+      "prices": {
+        "MSFT": 18.84,
+        "AAPL": 0.61,
+        "AMZN": 11.5,
+        "CSCO": 25.3,
+        "INTC": 28.9,
+        "ORCL": 25.8,
+        "SUNW": 18.9,
+        "YHOO": 24.6,
+        "EBAY": 18.3,
+        "QCOM": 36.8
+      }
+    },
+    {
+      "date": "2001-03",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "NBER: U.S. Economy Officially Entered Recession",
+          "summary": "The longest expansion in American history is over; tech capital spending collapses."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "Sun Warns: First Revenue Shortfall in a Decade",
+          "summary": "McNealy concedes the startup gold rush that fueled growth is over."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.31,
+        "AAPL": 0.62,
+        "AMZN": 10.94,
+        "CSCO": 21.2,
+        "INTC": 27.4,
+        "ORCL": 22.4,
+        "SUNW": 16.2,
+        "YHOO": 19.8,
+        "EBAY": 17.2,
+        "QCOM": 33.4
+      }
+    },
+    {
+      "date": "2001-04",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "DOJ Settlement Talks Reportedly Progressing",
+          "summary": "Signals that the new administration may drop the breakup remedy lift sentiment on Redmond."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Delivers Fourth Rate Cut of 2001",
+          "summary": "Aggressive easing cycle begins to put a floor under risk assets."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.05,
+        "AAPL": 0.83,
+        "AMZN": 14.06,
+        "CSCO": 23.8,
+        "INTC": 30.2,
+        "ORCL": 24.9,
+        "SUNW": 17.8,
+        "YHOO": 21.3,
+        "EBAY": 19.6,
+        "QCOM": 38.9
+      }
+    },
+    {
+      "date": "2001-05",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Opens First Retail Stores in Virginia and California",
+          "summary": "Skeptics pan the retail gamble, but Jobs insists the stores will showcase the 'digital hub' strategy."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "Yahoo CEO Koogle Steps Down Amid Ad Collapse",
+          "summary": "Hollywood veteran Terry Semel brought in to reinvent the portal."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.55,
+        "AAPL": 0.78,
+        "AMZN": 16.63,
+        "CSCO": 25.9,
+        "INTC": 29.8,
+        "ORCL": 23.6,
+        "SUNW": 16.4,
+        "YHOO": 23.9,
+        "EBAY": 21.4,
+        "QCOM": 41.2
+      }
+    },
+    {
+      "date": "2001-06",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Cuts Again — 275bp of Easing Year-to-Date",
+          "summary": "Sixth consecutive cut brings funds rate to 3.75%; market debates recovery timing."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "eBay Raises Guidance — Auction Model Shrugs Off Recession",
+          "summary": "Buyers hunting bargains keep volumes growing through the downturn."
+        }
+      ],
+      "prices": {
+        "MSFT": 24.34,
+        "AAPL": 0.82,
+        "AMZN": 14.44,
+        "CSCO": 19.6,
+        "INTC": 31.1,
+        "ORCL": 21.8,
+        "SUNW": 14.9,
+        "YHOO": 20.1,
+        "EBAY": 20.8,
+        "QCOM": 39.6
+      }
+    },
+    {
+      "date": "2001-07",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Narrows Q2 Loss, Reaffirms Profit Pledge",
+          "summary": "Operating discipline shows results, but top-line growth is slowing sharply."
+        },
+        {
+          "ticker": "QCOM",
+          "headline": "Qualcomm Trims Forecast as Handset Sales Slow",
+          "summary": "Royalty stream holds up, but equipment revenue disappoints."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.63,
+        "AAPL": 0.64,
+        "AMZN": 12.31,
+        "CSCO": 18.2,
+        "INTC": 28.3,
+        "ORCL": 18.9,
+        "SUNW": 12.3,
+        "YHOO": 18.4,
+        "EBAY": 19.3,
+        "QCOM": 35.8
+      }
+    },
+    {
+      "date": "2001-08",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Manufacturing Slump Deepens for 12th Straight Month",
+          "summary": "Economic data confirms the recession has teeth; corporate IT budgets frozen."
+        },
+        {
+          "ticker": "ORCL",
+          "headline": "Oracle Layoffs Confirm Enterprise Spending Freeze",
+          "summary": "Even the database king cannot escape the IT budget drought."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.81,
+        "AAPL": 0.63,
+        "AMZN": 8.56,
+        "CSCO": 15.9,
+        "INTC": 25.6,
+        "ORCL": 15.4,
+        "SUNW": 10.1,
+        "YHOO": 14.2,
+        "EBAY": 17.6,
+        "QCOM": 31.2
+      }
+    },
+    {
+      "date": "2001-09",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "9/11 Attacks Close Markets; Reopening Brings Historic Sell-Off",
+          "summary": "Dow plunges 684 points on reopening; Fed cuts emergency 50bp to stabilize the system."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Falls Below $7 as Post-Attack Fear Grips E-Commerce",
+          "summary": "Travel and consumer shock hits discretionary spending names hardest."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.79,
+        "AAPL": 0.51,
+        "AMZN": 6.69,
+        "CSCO": 12.3,
+        "INTC": 21.9,
+        "ORCL": 12.8,
+        "SUNW": 8.2,
+        "YHOO": 9.6,
+        "EBAY": 14.9,
+        "QCOM": 26.4
+      }
+    },
+    {
+      "date": "2001-10",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Launches iPod: '1,000 Songs in Your Pocket'",
+          "summary": "The $399 music player draws mixed reviews — niche gadget or category killer?"
+        },
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Swings to First-Ever Quarterly Loss",
+          "summary": "Chambers calls it the toughest environment in company history."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.42,
+        "AAPL": 0.59,
+        "AMZN": 7.5,
+        "CSCO": 15.4,
+        "INTC": 24.8,
+        "ORCL": 14.6,
+        "SUNW": 9.6,
+        "YHOO": 11.8,
+        "EBAY": 16.8,
+        "QCOM": 29.8
+      }
+    },
+    {
+      "date": "2001-11",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "Microsoft Settles with DOJ; Breakup Off the Table",
+          "summary": "Consent decree removes the existential overhang that has weighed on shares for three years."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Enron Scandal Erupts — Accounting Trust Shaken",
+          "summary": "Corporate fraud fears trigger flight to quality across equities."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.63,
+        "AAPL": 0.72,
+        "AMZN": 11,
+        "CSCO": 19.1,
+        "INTC": 27.6,
+        "ORCL": 16.9,
+        "SUNW": 11.4,
+        "YHOO": 16.4,
+        "EBAY": 19.4,
+        "QCOM": 34.6
+      }
+    },
+    {
+      "date": "2001-12",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Holiday Season Delivers: Amazon Posts First Pro-Forma Operating Profit",
+          "summary": "Bears scramble as the e-commerce survivor validates its model; short interest remains heavy."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "eBay Holiday Auction Volumes Smash Records",
+          "summary": "The marketplace model proves its resilience when it matters most."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.14,
+        "AAPL": 0.76,
+        "AMZN": 10.88,
+        "CSCO": 18.2,
+        "INTC": 28.9,
+        "ORCL": 15.8,
+        "SUNW": 10.8,
+        "YHOO": 15.9,
+        "EBAY": 21.2,
+        "QCOM": 36.9
+      }
+    },
+    {
+      "date": "2002-01",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Introduces Flat-Panel iMac G4",
+          "summary": "Bold sunflower design headlines Macworld; iPod momentum quietly building."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "Sun Bleeds Share to Dell and IBM",
+          "summary": "Cheap Intel-based servers eat the high-end Unix franchise alive."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.71,
+        "AAPL": 0.78,
+        "AMZN": 14.63,
+        "CSCO": 19.4,
+        "INTC": 27.2,
+        "ORCL": 16.4,
+        "SUNW": 11.2,
+        "YHOO": 17.2,
+        "EBAY": 22.6,
+        "QCOM": 38.2
+      }
+    },
+    {
+      "date": "2002-02",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Accounting Scandals Spread: Global Crossing Collapses",
+          "summary": "After Enron, investors demand proof of earnings quality across the entire market."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "Yahoo Buys HotJobs, Pivots to Paid Services",
+          "summary": "Semel bets subscriptions and listings can replace vanished banner ads."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.71,
+        "AAPL": 0.79,
+        "AMZN": 14.5,
+        "CSCO": 16.8,
+        "INTC": 25.1,
+        "ORCL": 14.2,
+        "SUNW": 9.4,
+        "YHOO": 15.1,
+        "EBAY": 21.3,
+        "QCOM": 34.8
+      }
+    },
+    {
+      "date": "2002-03",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Economists Declare Recession Over, But Jobless Recovery Feared",
+          "summary": "GDP turns positive while corporate tech spending remains in the deep freeze."
+        },
+        {
+          "ticker": "QCOM",
+          "headline": "Qualcomm Signs Major 3G Licensing Deals in Asia",
+          "summary": "Korean and Japanese carriers commit to CDMA for next-gen networks."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.33,
+        "AAPL": 0.86,
+        "AMZN": 13.94,
+        "CSCO": 17.5,
+        "INTC": 26.4,
+        "ORCL": 15.1,
+        "SUNW": 10.1,
+        "YHOO": 16.8,
+        "EBAY": 22.8,
+        "QCOM": 36.4
+      }
+    },
+    {
+      "date": "2002-04",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "Nine States Reject DOJ Settlement, Pursue Tougher Remedies",
+          "summary": "Antitrust saga drags on in the courtroom even as the federal case winds down."
+        },
+        {
+          "ticker": "INTC",
+          "headline": "Intel Margins Squeezed by AMD Price War",
+          "summary": "Athlon gains force unprecedented discounting in the CPU market."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.63,
+        "AAPL": 0.85,
+        "AMZN": 15.44,
+        "CSCO": 14.2,
+        "INTC": 22.3,
+        "ORCL": 12.9,
+        "SUNW": 7.8,
+        "YHOO": 14.9,
+        "EBAY": 20.4,
+        "QCOM": 31.9
+      }
+    },
+    {
+      "date": "2002-05",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Analyst Conflict Scandal Widens: Merrill Fined $100M",
+          "summary": "Spitzer probe reveals tainted research during the bubble; trust in Wall Street crumbles."
+        },
+        {
+          "ticker": "ORCL",
+          "headline": "Oracle Beats Earnings but Guidance Disappoints",
+          "summary": "Cost cuts deliver the quarter, yet new license sales keep shrinking."
+        }
+      ],
+      "prices": {
+        "MSFT": 16.82,
+        "AAPL": 0.77,
+        "AMZN": 17.94,
+        "CSCO": 15.1,
+        "INTC": 21.6,
+        "ORCL": 12.3,
+        "SUNW": 7.2,
+        "YHOO": 15.6,
+        "EBAY": 19.8,
+        "QCOM": 30.6
+      }
+    },
+    {
+      "date": "2002-06",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "WorldCom Admits $3.8B Accounting Fraud",
+          "summary": "Largest fraud in U.S. history rocks telecom; market slides toward new lows."
+        },
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Writes Down $2.2B in Excess Inventory",
+          "summary": "The cost of betting on endless growth finally hits the income statement."
+        }
+      ],
+      "prices": {
+        "MSFT": 18.23,
+        "AAPL": 0.72,
+        "AMZN": 16.88,
+        "CSCO": 13.8,
+        "INTC": 19.8,
+        "ORCL": 11.6,
+        "SUNW": 6.4,
+        "YHOO": 14.1,
+        "EBAY": 18.9,
+        "QCOM": 28.4
+      }
+    },
+    {
+      "date": "2002-07",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Sarbanes-Oxley Signed Into Law as Market Hits 5-Year Low",
+          "summary": "Sweeping corporate reform arrives at the moment of maximum pessimism — a classic capitulation signal?"
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Misses Estimates, Blames Weak Education Sales",
+          "summary": "Consumer strength can't offset sector-wide IT spending drought."
+        }
+      ],
+      "prices": {
+        "MSFT": 14.53,
+        "AAPL": 0.51,
+        "AMZN": 13.25,
+        "CSCO": 10.9,
+        "INTC": 15.9,
+        "ORCL": 9.2,
+        "SUNW": 4.1,
+        "YHOO": 10.3,
+        "EBAY": 15.6,
+        "QCOM": 23.8
+      }
+    },
+    {
+      "date": "2002-08",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "CEO Certification Deadline Passes — No New Bombshells",
+          "summary": "Relief rally builds as 947 executives swear their books are clean."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "eBay Moves to Acquire PayPal for $1.5B",
+          "summary": "Payments integration locks in the marketplace flywheel."
+        }
+      ],
+      "prices": {
+        "MSFT": 15,
+        "AAPL": 0.51,
+        "AMZN": 15.06,
+        "CSCO": 12.6,
+        "INTC": 16.8,
+        "ORCL": 10.4,
+        "SUNW": 4.8,
+        "YHOO": 11.2,
+        "EBAY": 16.9,
+        "QCOM": 26.2
+      }
+    },
+    {
+      "date": "2002-09",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Double-Dip Fears Return as Confidence Slips",
+          "summary": "Muted guidance across tech keeps buyers on the sidelines."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "Sun Falls Below $4 — Down 92% From Peak",
+          "summary": "From dot-com kingpin to penny-stock territory in 24 months."
+        }
+      ],
+      "prices": {
+        "MSFT": 14.47,
+        "AAPL": 0.5,
+        "AMZN": 16.13,
+        "CSCO": 11.4,
+        "INTC": 15.2,
+        "ORCL": 9.8,
+        "SUNW": 3.9,
+        "YHOO": 9.8,
+        "EBAY": 15.8,
+        "QCOM": 24.6
+      }
+    },
+    {
+      "date": "2002-10",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Market Bottoms? Nasdaq Rallies Hard Off 1,114 Low",
+          "summary": "Strongest two-week rally since 1987 has traders asking if the bear market is finally over."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Reports First Net Profit, Raises Outlook",
+          "summary": "GAAP profitability milestone silences remaining critics; shares surge on heavy volume."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.68,
+        "AAPL": 0.52,
+        "AMZN": 19.44,
+        "CSCO": 12.1,
+        "INTC": 17.3,
+        "ORCL": 11.2,
+        "SUNW": 3.2,
+        "YHOO": 10.6,
+        "EBAY": 17.4,
+        "QCOM": 28.9
+      }
+    },
+    {
+      "date": "2002-11",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Cuts 50bp to 1.25% — Historic Low",
+          "summary": "Deeply accommodative policy juices the recovery trade into year-end."
+        },
+        {
+          "ticker": "MSFT",
+          "headline": "Judge Approves Microsoft-DOJ Settlement",
+          "summary": "Final court blessing ends the five-year antitrust odyssey once and for all."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.13,
+        "AAPL": 0.51,
+        "AMZN": 22.69,
+        "CSCO": 13.6,
+        "INTC": 19.6,
+        "ORCL": 12.6,
+        "SUNW": 3.6,
+        "YHOO": 12.3,
+        "EBAY": 19.2,
+        "QCOM": 33.4
+      }
+    },
+    {
+      "date": "2002-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Year in Review: Survivors of the Crash Emerge Stronger",
+          "summary": "MSFT stable, AAPL quietly building a hit product, AMZN profitable. The next cycle begins."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Holiday Sales Smash Records",
+          "summary": "From near-bankruptcy to e-commerce kingpin in 24 months — the ultimate bubble survivor story."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.22,
+        "AAPL": 0.5,
+        "AMZN": 18.89,
+        "CSCO": 12.95,
+        "INTC": 18.45,
+        "ORCL": 11.75,
+        "SUNW": 2.95,
+        "YHOO": 11.15,
+        "EBAY": 17.05,
+        "QCOM": 31.65
+      }
+    },
+    {
+      "date": "2003-01",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Bush Proposes $674B Tax Cut to Jolt the Economy",
+          "summary": "Dividend tax elimination plan cheers equity bulls as recovery struggles to take hold."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.74,
+        "AAPL": 0.53,
+        "AMZN": 21.87,
+        "CSCO": 13.99,
+        "INTC": 16.69,
+        "ORCL": 12.41,
+        "SUNW": 3.16,
+        "YHOO": 12.65,
+        "EBAY": 18.97,
+        "QCOM": 33.36
+      }
+    },
+    {
+      "date": "2003-02",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "War Drums in Iraq Keep Markets on Edge",
+          "summary": "Geopolitical uncertainty caps the winter rally; volatility gauges stay elevated."
+        },
+        {
+          "ticker": "INTC",
+          "headline": "INTC Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 7% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.95,
+        "AAPL": 0.55,
+        "AMZN": 23.39,
+        "CSCO": 14.5,
+        "INTC": 18.22,
+        "ORCL": 12.48,
+        "SUNW": 3.26,
+        "YHOO": 13.54,
+        "EBAY": 20.12,
+        "QCOM": 34.66
+      }
+    },
+    {
+      "date": "2003-03",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Iraq War Begins — Stocks Rally on Relief",
+          "summary": "Markets pop on the removal of uncertainty; beaten-down tech leads the charge off the lows."
+        },
+        {
+          "ticker": "INTC",
+          "headline": "INTC Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 7% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.15,
+        "AAPL": 0.58,
+        "AMZN": 24.92,
+        "CSCO": 15.01,
+        "INTC": 19.74,
+        "ORCL": 12.55,
+        "SUNW": 3.36,
+        "YHOO": 14.43,
+        "EBAY": 21.26,
+        "QCOM": 35.96
+      }
+    },
+    {
+      "date": "2003-04",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Posts Second Straight Profitable Quarter",
+          "summary": "Free shipping and third-party sellers drive the turnaround story into high gear."
+        },
+        {
+          "ticker": "INTC",
+          "headline": "INTC Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 6% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.35,
+        "AAPL": 0.6,
+        "AMZN": 26.45,
+        "CSCO": 15.52,
+        "INTC": 21.26,
+        "ORCL": 12.62,
+        "SUNW": 3.46,
+        "YHOO": 15.32,
+        "EBAY": 22.41,
+        "QCOM": 37.26
+      }
+    },
+    {
+      "date": "2003-05",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "iTunes Music Store Sells 1 Million Songs in First Week",
+          "summary": "The 99-cent download model catches fire — Apple's 'digital hub' bet starts paying off."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 13% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.55,
+        "AAPL": 0.63,
+        "AMZN": 30.01,
+        "CSCO": 16.04,
+        "INTC": 22.35,
+        "ORCL": 12.68,
+        "SUNW": 3.57,
+        "YHOO": 16.21,
+        "EBAY": 23.55,
+        "QCOM": 38.56
+      }
+    },
+    {
+      "date": "2003-06",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Cuts to 1% — Lowest Since 1958",
+          "summary": "Ultra-cheap money pours fuel on the recovery trade."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 12% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 9% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.76,
+        "AAPL": 0.68,
+        "AMZN": 33.57,
+        "CSCO": 16.55,
+        "INTC": 23.43,
+        "ORCL": 12.75,
+        "SUNW": 3.67,
+        "YHOO": 17.73,
+        "EBAY": 24.7,
+        "QCOM": 39.36
+      }
+    },
+    {
+      "date": "2003-07",
+      "news": [
+        {
+          "ticker": "ORCL",
+          "headline": "Oracle Launches Hostile $5.1B Bid for PeopleSoft",
+          "summary": "Ellison declares the enterprise software consolidation war officially open."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 11% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 9% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.18,
+        "AAPL": 0.72,
+        "AMZN": 37.13,
+        "CSCO": 17.6,
+        "INTC": 24.51,
+        "ORCL": 12.82,
+        "SUNW": 3.8,
+        "YHOO": 19.26,
+        "EBAY": 26.24,
+        "QCOM": 40.16
+      }
+    },
+    {
+      "date": "2003-08",
+      "news": [
+        {
+          "ticker": "QCOM",
+          "headline": "3G Rollout Accelerates in Asia, Qualcomm Royalties Climb",
+          "summary": "CDMA licensing machine hums as carriers race to deploy next-gen networks."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 10% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 8% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.6,
+        "AAPL": 0.77,
+        "AMZN": 40.69,
+        "CSCO": 18.65,
+        "INTC": 25.59,
+        "ORCL": 13.04,
+        "SUNW": 3.94,
+        "YHOO": 20.79,
+        "EBAY": 27.78,
+        "QCOM": 40.96
+      }
+    },
+    {
+      "date": "2003-09",
+      "news": [
+        {
+          "ticker": "YHOO",
+          "headline": "Yahoo Ad Revenue Roars Back With Overture Deal",
+          "summary": "Paid search acquisition transforms the portal into a recovery winner."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Jumps 6% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.03,
+        "AAPL": 0.82,
+        "AMZN": 44.26,
+        "CSCO": 19.7,
+        "INTC": 26.67,
+        "ORCL": 13.26,
+        "SUNW": 4.08,
+        "YHOO": 22.31,
+        "EBAY": 29.32,
+        "QCOM": 41.76
+      }
+    },
+    {
+      "date": "2003-10",
+      "news": [
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Orders Inflect Higher — Chambers Turns Cautiously Optimistic",
+          "summary": "Corporate network spending thaws for the first time in three years."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 7% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.45,
+        "AAPL": 0.87,
+        "AMZN": 47.82,
+        "CSCO": 20.76,
+        "INTC": 27.75,
+        "ORCL": 13.48,
+        "SUNW": 4.21,
+        "YHOO": 23.84,
+        "EBAY": 30.86,
+        "QCOM": 42.56
+      }
+    },
+    {
+      "date": "2003-11",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Nasdaq Up 45% Year-to-Date as Risk Appetite Returns",
+          "summary": "Momentum funds pile back into the same names they dumped in 2002."
+        },
+        {
+          "ticker": "CSCO",
+          "headline": "CSCO Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Jumps 7% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.54,
+        "AAPL": 0.9,
+        "AMZN": 51.38,
+        "CSCO": 22.33,
+        "INTC": 28.57,
+        "ORCL": 13.83,
+        "SUNW": 4.2,
+        "YHOO": 25.25,
+        "EBAY": 32.11,
+        "QCOM": 43.6
+      }
+    },
+    {
+      "date": "2003-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Year in Review: The Recovery Is Real",
+          "summary": "Every major tech name finished higher in 2003. The bust finally looks like history."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Jumps 6% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.96,
+        "AAPL": 0.94,
+        "AMZN": 54.95,
+        "CSCO": 23.4,
+        "INTC": 29.64,
+        "ORCL": 14.05,
+        "SUNW": 4.33,
+        "YHOO": 26.77,
+        "EBAY": 33.64,
+        "QCOM": 44.41
+      }
+    },
+    {
+      "date": "2004-01",
+      "news": [
+        {
+          "ticker": "EBAY",
+          "headline": "eBay Holiday GMV Smashes Estimates Again",
+          "summary": "The auction king extends its streak of market-beating growth quarters."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 10% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.71,
+        "AAPL": 1.03,
+        "AMZN": 52.91,
+        "CSCO": 22.76,
+        "INTC": 28.57,
+        "ORCL": 13.67,
+        "SUNW": 4.28,
+        "YHOO": 27.5,
+        "EBAY": 34.4,
+        "QCOM": 43.97
+      }
+    },
+    {
+      "date": "2004-02",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "IPO Window Creaks Back Open",
+          "summary": "Bankers dust off their tech pipelines; talk of a certain search engine filing grows louder."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.46,
+        "AAPL": 1.12,
+        "AMZN": 50.88,
+        "CSCO": 22.13,
+        "INTC": 27.51,
+        "ORCL": 13.28,
+        "SUNW": 4.23,
+        "YHOO": 28.22,
+        "EBAY": 35.17,
+        "QCOM": 43.54
+      }
+    },
+    {
+      "date": "2004-03",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Quiet Month on Wall Street as Volumes Thin",
+          "summary": "Traders square positions ahead of the next catalyst."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.21,
+        "AAPL": 1.21,
+        "AMZN": 48.85,
+        "CSCO": 21.49,
+        "INTC": 26.44,
+        "ORCL": 12.89,
+        "SUNW": 4.18,
+        "YHOO": 28.94,
+        "EBAY": 35.93,
+        "QCOM": 43.11
+      }
+    },
+    {
+      "date": "2004-04",
+      "news": [
+        {
+          "ticker": "INTC",
+          "headline": "Intel Cancels Next-Gen Chip Amid Design Stumbles",
+          "summary": "Execution wobbles at the chip giant hand momentum to rival AMD's Opteron."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.96,
+        "AAPL": 1.3,
+        "AMZN": 46.81,
+        "CSCO": 20.85,
+        "INTC": 25.38,
+        "ORCL": 12.5,
+        "SUNW": 4.13,
+        "YHOO": 29.66,
+        "EBAY": 36.7,
+        "QCOM": 42.67
+      }
+    },
+    {
+      "date": "2004-05",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.71,
+        "AAPL": 1.39,
+        "AMZN": 44.78,
+        "CSCO": 20.21,
+        "INTC": 24.31,
+        "ORCL": 12.12,
+        "SUNW": 4.08,
+        "YHOO": 30.39,
+        "EBAY": 37.46,
+        "QCOM": 42.24
+      }
+    },
+    {
+      "date": "2004-06",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 12% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Earnings Season Delivers Modest Beats Across Tech",
+          "summary": "Guidance is conservative but balance sheets keep strengthening."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.47,
+        "AAPL": 1.56,
+        "AMZN": 42.75,
+        "CSCO": 19.57,
+        "INTC": 23.25,
+        "ORCL": 11.73,
+        "SUNW": 4.03,
+        "YHOO": 31.11,
+        "EBAY": 38.23,
+        "QCOM": 41.81
+      }
+    },
+    {
+      "date": "2004-07",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "Microsoft Unveils $75B Cash Return — Largest in History",
+          "summary": "Special dividend and buyback mark the official maturation of the former growth rocket."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 11% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.97,
+        "AAPL": 1.73,
+        "AMZN": 42.07,
+        "CSCO": 19.78,
+        "INTC": 23.46,
+        "ORCL": 12,
+        "SUNW": 4.21,
+        "YHOO": 31.9,
+        "EBAY": 39.02,
+        "QCOM": 42.18
+      }
+    },
+    {
+      "date": "2004-08",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Google IPO Debuts at $85 — Tech Market Has Its New Darling",
+          "summary": "Dutch auction pricing frustrates Wall Street, but the listing symbolizes the post-bust era."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 10% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.47,
+        "AAPL": 1.9,
+        "AMZN": 41.39,
+        "CSCO": 19.98,
+        "INTC": 23.67,
+        "ORCL": 12.27,
+        "SUNW": 4.39,
+        "YHOO": 32.69,
+        "EBAY": 39.82,
+        "QCOM": 42.55
+      }
+    },
+    {
+      "date": "2004-09",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.99,
+        "AAPL": 2.07,
+        "AMZN": 40.75,
+        "CSCO": 20.2,
+        "INTC": 23.91,
+        "ORCL": 12.55,
+        "SUNW": 4.58,
+        "YHOO": 33.51,
+        "EBAY": 40.65,
+        "QCOM": 42.95
+      }
+    },
+    {
+      "date": "2004-10",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "iPod Photo Unveiled as Apple Momentum Builds",
+          "summary": "The white earbuds are everywhere; analysts scramble to raise holiday estimates."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.49,
+        "AAPL": 2.24,
+        "AMZN": 40.07,
+        "CSCO": 20.4,
+        "INTC": 24.12,
+        "ORCL": 12.82,
+        "SUNW": 4.76,
+        "YHOO": 34.3,
+        "EBAY": 41.45,
+        "QCOM": 43.32
+      }
+    },
+    {
+      "date": "2004-11",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Quiet Month on Wall Street as Volumes Thin",
+          "summary": "Traders square positions ahead of the next catalyst."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.99,
+        "AAPL": 2.42,
+        "AMZN": 39.39,
+        "CSCO": 20.6,
+        "INTC": 24.34,
+        "ORCL": 13.09,
+        "SUNW": 4.94,
+        "YHOO": 35.09,
+        "EBAY": 42.25,
+        "QCOM": 43.69
+      }
+    },
+    {
+      "date": "2004-12",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Holiday Blowout: iPod Sales Up 500% Year-over-Year",
+          "summary": "The halo effect is real — Mac sales surge alongside the music player phenomenon."
+        }
+      ],
+      "prices": {
+        "MSFT": 24.49,
+        "AAPL": 2.59,
+        "AMZN": 38.72,
+        "CSCO": 20.81,
+        "INTC": 24.55,
+        "ORCL": 13.36,
+        "SUNW": 5.12,
+        "YHOO": 35.88,
+        "EBAY": 43.05,
+        "QCOM": 44.06
+      }
+    },
+    {
+      "date": "2005-01",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Launches $99 iPod Shuffle and $499 Mac mini",
+          "summary": "Cupertino attacks the low end of both music players and PCs at once."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.91,
+        "AAPL": 2.52,
+        "AMZN": 39.4,
+        "CSCO": 20.52,
+        "INTC": 24.31,
+        "ORCL": 13.23,
+        "SUNW": 4.97,
+        "YHOO": 35.61,
+        "EBAY": 43.95,
+        "QCOM": 43.36
+      }
+    },
+    {
+      "date": "2005-02",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Earnings Season Delivers Modest Beats Across Tech",
+          "summary": "Guidance is conservative but balance sheets keep strengthening."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.32,
+        "AAPL": 2.45,
+        "AMZN": 40.08,
+        "CSCO": 20.24,
+        "INTC": 24.06,
+        "ORCL": 13.09,
+        "SUNW": 4.83,
+        "YHOO": 35.35,
+        "EBAY": 44.85,
+        "QCOM": 42.66
+      }
+    },
+    {
+      "date": "2005-03",
+      "news": [
+        {
+          "ticker": "SUNW",
+          "headline": "Sun Swings to Loss, McNealy Under Pressure",
+          "summary": "The once-mighty server vendor keeps shrinking as x86 boxes eat its lunch."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.74,
+        "AAPL": 2.39,
+        "AMZN": 40.76,
+        "CSCO": 19.95,
+        "INTC": 23.82,
+        "ORCL": 12.96,
+        "SUNW": 4.68,
+        "YHOO": 35.09,
+        "EBAY": 45.75,
+        "QCOM": 41.96
+      }
+    },
+    {
+      "date": "2005-04",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 13% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Holds Rates Steady, Signals Data Dependence",
+          "summary": "Policymakers content to watch and wait; markets read the tea leaves."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.16,
+        "AAPL": 2.71,
+        "AMZN": 41.44,
+        "CSCO": 19.67,
+        "INTC": 23.57,
+        "ORCL": 12.82,
+        "SUNW": 4.53,
+        "YHOO": 34.83,
+        "EBAY": 46.65,
+        "QCOM": 41.25
+      }
+    },
+    {
+      "date": "2005-05",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 12% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.58,
+        "AAPL": 3.03,
+        "AMZN": 42.12,
+        "CSCO": 19.38,
+        "INTC": 23.32,
+        "ORCL": 12.69,
+        "SUNW": 4.38,
+        "YHOO": 34.57,
+        "EBAY": 47.55,
+        "QCOM": 40.55
+      }
+    },
+    {
+      "date": "2005-06",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Stunner: Apple Ditches PowerPC for Intel Chips",
+          "summary": "Jobs announces the Mac's brain transplant — INTC rallies on the marquee design win."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.99,
+        "AAPL": 3.35,
+        "AMZN": 42.8,
+        "CSCO": 19.09,
+        "INTC": 23.08,
+        "ORCL": 12.56,
+        "SUNW": 4.24,
+        "YHOO": 34.31,
+        "EBAY": 48.44,
+        "QCOM": 39.85
+      }
+    },
+    {
+      "date": "2005-07",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 10% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Quiet Month on Wall Street as Volumes Thin",
+          "summary": "Traders square positions ahead of the next catalyst."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.26,
+        "AAPL": 3.67,
+        "AMZN": 43.35,
+        "CSCO": 18.98,
+        "INTC": 23.58,
+        "ORCL": 12.63,
+        "SUNW": 4.29,
+        "YHOO": 35.06,
+        "EBAY": 49.57,
+        "QCOM": 40.76
+      }
+    },
+    {
+      "date": "2005-08",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Holds Rates Steady, Signals Data Dependence",
+          "summary": "Policymakers content to watch and wait; markets read the tea leaves."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.51,
+        "AAPL": 3.99,
+        "AMZN": 42.14,
+        "CSCO": 18.84,
+        "INTC": 24.05,
+        "ORCL": 12.7,
+        "SUNW": 4.34,
+        "YHOO": 35.79,
+        "EBAY": 50.65,
+        "QCOM": 41.63
+      }
+    },
+    {
+      "date": "2005-09",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "iPod nano Replaces the mini — Thinner Than a Pencil",
+          "summary": "Another category-defining hit keeps the Apple flywheel spinning."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.76,
+        "AAPL": 4.32,
+        "AMZN": 42.63,
+        "CSCO": 18.71,
+        "INTC": 24.53,
+        "ORCL": 12.77,
+        "SUNW": 4.39,
+        "YHOO": 36.51,
+        "EBAY": 51.73,
+        "QCOM": 42.51
+      }
+    },
+    {
+      "date": "2005-10",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Earnings Season Delivers Modest Beats Across Tech",
+          "summary": "Guidance is conservative but balance sheets keep strengthening."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.02,
+        "AAPL": 4.64,
+        "AMZN": 43.12,
+        "CSCO": 18.57,
+        "INTC": 25.01,
+        "ORCL": 12.84,
+        "SUNW": 4.44,
+        "YHOO": 37.24,
+        "EBAY": 52.82,
+        "QCOM": 43.38
+      }
+    },
+    {
+      "date": "2005-11",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Quiet Month on Wall Street as Volumes Thin",
+          "summary": "Traders square positions ahead of the next catalyst."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.27,
+        "AAPL": 4.96,
+        "AMZN": 43.62,
+        "CSCO": 18.44,
+        "INTC": 25.49,
+        "ORCL": 12.91,
+        "SUNW": 4.49,
+        "YHOO": 37.96,
+        "EBAY": 53.9,
+        "QCOM": 44.25
+      }
+    },
+    {
+      "date": "2005-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Year in Review: Flat Indices Hide Massive Stock Dispersion",
+          "summary": "Apple up 123%, eBay flying, while Dell-era PC names stall — stock-picking is back."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 6% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.52,
+        "AAPL": 5.28,
+        "AMZN": 44.11,
+        "CSCO": 18.31,
+        "INTC": 25.97,
+        "ORCL": 12.97,
+        "SUNW": 4.54,
+        "YHOO": 38.69,
+        "EBAY": 54.98,
+        "QCOM": 45.13
+      }
+    },
+    {
+      "date": "2006-01",
+      "news": [
+        {
+          "ticker": "INTC",
+          "headline": "First Intel Macs Ship as Viiv Platform Launches",
+          "summary": "The Wintel duopoly gets a new member; analysts debate margin impact."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Slides 10% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Falls 7% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.35,
+        "AAPL": 5.13,
+        "AMZN": 39.86,
+        "CSCO": 18.83,
+        "INTC": 25.03,
+        "ORCL": 13.28,
+        "SUNW": 4.59,
+        "YHOO": 37.52,
+        "EBAY": 51.04,
+        "QCOM": 44.06
+      }
+    },
+    {
+      "date": "2006-02",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Slides 11% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Falls 8% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.19,
+        "AAPL": 4.98,
+        "AMZN": 35.62,
+        "CSCO": 19.35,
+        "INTC": 24.09,
+        "ORCL": 13.58,
+        "SUNW": 4.64,
+        "YHOO": 36.35,
+        "EBAY": 47.1,
+        "QCOM": 42.98
+      }
+    },
+    {
+      "date": "2006-03",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Quietly Launches S3 Cloud Storage",
+          "summary": "A curious side project: rentable computing infrastructure. Few on Wall Street pay attention."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 8% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.02,
+        "AAPL": 4.83,
+        "AMZN": 31.37,
+        "CSCO": 19.88,
+        "INTC": 23.16,
+        "ORCL": 13.89,
+        "SUNW": 4.68,
+        "YHOO": 35.19,
+        "EBAY": 43.16,
+        "QCOM": 41.91
+      }
+    },
+    {
+      "date": "2006-04",
+      "news": [
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 9% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Holds Rates Steady, Signals Data Dependence",
+          "summary": "Policymakers content to watch and wait; markets read the tea leaves."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.85,
+        "AAPL": 4.68,
+        "AMZN": 31.04,
+        "CSCO": 20.4,
+        "INTC": 22.22,
+        "ORCL": 14.19,
+        "SUNW": 4.73,
+        "YHOO": 34.02,
+        "EBAY": 39.22,
+        "QCOM": 40.84
+      }
+    },
+    {
+      "date": "2006-05",
+      "news": [
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 10% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.71,
+        "AAPL": 4.54,
+        "AMZN": 30.74,
+        "CSCO": 20.94,
+        "INTC": 21.3,
+        "ORCL": 14.51,
+        "SUNW": 4.79,
+        "YHOO": 32.88,
+        "EBAY": 35.31,
+        "QCOM": 39.8
+      }
+    },
+    {
+      "date": "2006-06",
+      "news": [
+        {
+          "ticker": "YHOO",
+          "headline": "Yahoo Delays Panama Ad Platform — Stock Plunges 20%",
+          "summary": "The Google gap widens as the critical search-monetization upgrade slips."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 11% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.54,
+        "AAPL": 4.39,
+        "AMZN": 30.42,
+        "CSCO": 21.46,
+        "INTC": 20.36,
+        "ORCL": 14.81,
+        "SUNW": 4.84,
+        "YHOO": 31.71,
+        "EBAY": 31.37,
+        "QCOM": 38.72
+      }
+    },
+    {
+      "date": "2006-07",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Jumps 7% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.04,
+        "AAPL": 4.8,
+        "AMZN": 32.55,
+        "CSCO": 22.17,
+        "INTC": 20.49,
+        "ORCL": 15.29,
+        "SUNW": 5.03,
+        "YHOO": 30.68,
+        "EBAY": 31.77,
+        "QCOM": 39.43
+      }
+    },
+    {
+      "date": "2006-08",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Jumps 7% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 22.54,
+        "AAPL": 5.22,
+        "AMZN": 34.67,
+        "CSCO": 22.88,
+        "INTC": 20.63,
+        "ORCL": 15.76,
+        "SUNW": 5.23,
+        "YHOO": 29.64,
+        "EBAY": 32.17,
+        "QCOM": 40.14
+      }
+    },
+    {
+      "date": "2006-09",
+      "news": [
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Back Above $25 as Networking Upgrade Cycle Builds",
+          "summary": "Video traffic explosion revives the bandwidth-scarcity investment thesis."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Jumps 6% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.05,
+        "AAPL": 5.63,
+        "AMZN": 36.8,
+        "CSCO": 23.59,
+        "INTC": 20.76,
+        "ORCL": 16.24,
+        "SUNW": 5.43,
+        "YHOO": 28.61,
+        "EBAY": 32.57,
+        "QCOM": 40.85
+      }
+    },
+    {
+      "date": "2006-10",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Earnings Season Delivers Modest Beats Across Tech",
+          "summary": "Guidance is conservative but balance sheets keep strengthening."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.55,
+        "AAPL": 6.05,
+        "AMZN": 38.93,
+        "CSCO": 24.3,
+        "INTC": 20.89,
+        "ORCL": 16.71,
+        "SUNW": 5.63,
+        "YHOO": 27.57,
+        "EBAY": 32.97,
+        "QCOM": 41.55
+      }
+    },
+    {
+      "date": "2006-11",
+      "news": [
+        {
+          "ticker": "QCOM",
+          "headline": "Qualcomm Battles Nokia Over Patent Royalties",
+          "summary": "Legal overhang clouds the 3G royalty stream just as smartphones take off."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 24.05,
+        "AAPL": 6.47,
+        "AMZN": 41.06,
+        "CSCO": 25.01,
+        "INTC": 21.03,
+        "ORCL": 17.19,
+        "SUNW": 5.83,
+        "YHOO": 26.53,
+        "EBAY": 33.37,
+        "QCOM": 42.26
+      }
+    },
+    {
+      "date": "2006-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Year in Review: Housing Peaks, Few Notice",
+          "summary": "Home prices roll over quietly while equity markets party on."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Rallies 6% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 24.55,
+        "AAPL": 6.88,
+        "AMZN": 43.19,
+        "CSCO": 25.72,
+        "INTC": 21.16,
+        "ORCL": 17.66,
+        "SUNW": 6.02,
+        "YHOO": 25.5,
+        "EBAY": 33.77,
+        "QCOM": 42.97
+      }
+    },
+    {
+      "date": "2007-01",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "Apple Announces the iPhone: 'An iPod, a Phone, an Internet Communicator'",
+          "summary": "Jobs unveils the device that will redefine the industry — AAPL gaps up massively."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 25.3,
+        "AAPL": 9.38,
+        "AMZN": 46.79,
+        "CSCO": 26.01,
+        "INTC": 21.69,
+        "ORCL": 18.12,
+        "SUNW": 5.97,
+        "YHOO": 25.76,
+        "EBAY": 34.17,
+        "QCOM": 42.84
+      }
+    },
+    {
+      "date": "2007-02",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Earnings Season Delivers Modest Beats Across Tech",
+          "summary": "Guidance is conservative but balance sheets keep strengthening."
+        }
+      ],
+      "prices": {
+        "MSFT": 26.06,
+        "AAPL": 9.77,
+        "AMZN": 50.39,
+        "CSCO": 26.3,
+        "INTC": 22.21,
+        "ORCL": 18.57,
+        "SUNW": 5.93,
+        "YHOO": 26.03,
+        "EBAY": 34.58,
+        "QCOM": 42.7
+      }
+    },
+    {
+      "date": "2007-03",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Quiet Month on Wall Street as Volumes Thin",
+          "summary": "Traders square positions ahead of the next catalyst."
+        }
+      ],
+      "prices": {
+        "MSFT": 26.83,
+        "AAPL": 10.18,
+        "AMZN": 54.03,
+        "CSCO": 26.61,
+        "INTC": 22.76,
+        "ORCL": 19.05,
+        "SUNW": 5.88,
+        "YHOO": 26.31,
+        "EBAY": 35.01,
+        "QCOM": 42.61
+      }
+    },
+    {
+      "date": "2007-04",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Prime Membership Accelerates",
+          "summary": "Free two-day shipping drives loyalty metrics off the charts."
+        }
+      ],
+      "prices": {
+        "MSFT": 27.59,
+        "AAPL": 10.58,
+        "AMZN": 57.64,
+        "CSCO": 26.9,
+        "INTC": 23.29,
+        "ORCL": 19.51,
+        "SUNW": 5.83,
+        "YHOO": 26.58,
+        "EBAY": 35.41,
+        "QCOM": 42.47
+      }
+    },
+    {
+      "date": "2007-05",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 6% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 28.34,
+        "AAPL": 10.98,
+        "AMZN": 61.24,
+        "CSCO": 27.18,
+        "INTC": 23.82,
+        "ORCL": 19.96,
+        "SUNW": 5.78,
+        "YHOO": 26.84,
+        "EBAY": 35.81,
+        "QCOM": 42.34
+      }
+    },
+    {
+      "date": "2007-06",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "iPhone Launch Day: Lines Around the Block",
+          "summary": "The most hyped gadget launch in history delivers; activation servers buckle under demand."
+        }
+      ],
+      "prices": {
+        "MSFT": 29.09,
+        "AAPL": 11.38,
+        "AMZN": 64.85,
+        "CSCO": 27.47,
+        "INTC": 24.35,
+        "ORCL": 20.42,
+        "SUNW": 5.73,
+        "YHOO": 27.11,
+        "EBAY": 36.21,
+        "QCOM": 42.21
+      }
+    },
+    {
+      "date": "2007-07",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Quiet Month on Wall Street as Volumes Thin",
+          "summary": "Traders square positions ahead of the next catalyst."
+        }
+      ],
+      "prices": {
+        "MSFT": 30.4,
+        "AAPL": 11.85,
+        "AMZN": 69.44,
+        "CSCO": 28.82,
+        "INTC": 24.75,
+        "ORCL": 20.88,
+        "SUNW": 5.67,
+        "YHOO": 26.42,
+        "EBAY": 35.61,
+        "QCOM": 42.45
+      }
+    },
+    {
+      "date": "2007-08",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Credit Markets Seize — BNP Freezes Funds, ECB Intervenes",
+          "summary": "The subprime crack appears. Most equity traders dismiss it as 'contained'."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 7% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 31.7,
+        "AAPL": 12.31,
+        "AMZN": 74.03,
+        "CSCO": 30.16,
+        "INTC": 25.14,
+        "ORCL": 21.34,
+        "SUNW": 5.6,
+        "YHOO": 25.72,
+        "EBAY": 35.01,
+        "QCOM": 42.68
+      }
+    },
+    {
+      "date": "2007-09",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 6% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 33.01,
+        "AAPL": 12.78,
+        "AMZN": 78.61,
+        "CSCO": 31.51,
+        "INTC": 25.54,
+        "ORCL": 21.8,
+        "SUNW": 5.54,
+        "YHOO": 25.03,
+        "EBAY": 34.41,
+        "QCOM": 42.92
+      }
+    },
+    {
+      "date": "2007-10",
+      "news": [
+        {
+          "ticker": "CSCO",
+          "headline": "Cisco Touches $33 — Chambers Warns of \"Lumpy\" Enterprise Orders",
+          "summary": "The warning sign flashing at the market top that few heeded."
+        }
+      ],
+      "prices": {
+        "MSFT": 34.31,
+        "AAPL": 13.25,
+        "AMZN": 83.2,
+        "CSCO": 32.85,
+        "INTC": 25.94,
+        "ORCL": 22.25,
+        "SUNW": 5.47,
+        "YHOO": 24.34,
+        "EBAY": 33.81,
+        "QCOM": 43.16
+      }
+    },
+    {
+      "date": "2007-11",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Launches the Kindle E-Reader",
+          "summary": "A $399 book gadget? Skeptics scoff, but the first run sells out in hours."
+        }
+      ],
+      "prices": {
+        "MSFT": 34.72,
+        "AAPL": 13.71,
+        "AMZN": 87.79,
+        "CSCO": 31.08,
+        "INTC": 26.33,
+        "ORCL": 22.71,
+        "SUNW": 5.41,
+        "YHOO": 23.65,
+        "EBAY": 33.22,
+        "QCOM": 43.39
+      }
+    },
+    {
+      "date": "2007-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Recession Officially Begins (Though Nobody Knows It Yet)",
+          "summary": "NBER would later date the downturn to this exact month."
+        }
+      ],
+      "prices": {
+        "MSFT": 35.12,
+        "AAPL": 14.18,
+        "AMZN": 92.38,
+        "CSCO": 29.3,
+        "INTC": 26.73,
+        "ORCL": 23.17,
+        "SUNW": 5.34,
+        "YHOO": 22.96,
+        "EBAY": 32.62,
+        "QCOM": 43.63
+      }
+    },
+    {
+      "date": "2008-01",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Holds Rates Steady, Signals Data Dependence",
+          "summary": "Policymakers content to watch and wait; markets read the tea leaves."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        }
+      ],
+      "prices": {
+        "MSFT": 33.64,
+        "AAPL": 13.58,
+        "AMZN": 88.86,
+        "CSCO": 28.23,
+        "INTC": 25.89,
+        "ORCL": 22.61,
+        "SUNW": 5.15,
+        "YHOO": 21.69,
+        "EBAY": 31.94,
+        "QCOM": 44.58
+      }
+    },
+    {
+      "date": "2008-02",
+      "news": [
+        {
+          "ticker": "MSFT",
+          "headline": "Microsoft Bids $44.6B for Yahoo",
+          "summary": "Ballmer's blockbuster offer sends YHOO soaring and MSFT sliding on dilution fears."
+        }
+      ],
+      "prices": {
+        "MSFT": 32.14,
+        "AAPL": 12.96,
+        "AMZN": 85.26,
+        "CSCO": 27.13,
+        "INTC": 25.04,
+        "ORCL": 22.04,
+        "SUNW": 4.95,
+        "YHOO": 20.4,
+        "EBAY": 31.24,
+        "QCOM": 45.49
+      }
+    },
+    {
+      "date": "2008-03",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Bear Stearns Collapses — Fire Sale to JPMorgan at $2/Share",
+          "summary": "The first domino falls. The Fed engineers a weekend rescue; fear index spikes."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Rallies 14% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        }
+      ],
+      "prices": {
+        "MSFT": 30.63,
+        "AAPL": 12.35,
+        "AMZN": 81.65,
+        "CSCO": 26.03,
+        "INTC": 24.18,
+        "ORCL": 21.46,
+        "SUNW": 4.75,
+        "YHOO": 23.31,
+        "EBAY": 30.55,
+        "QCOM": 46.4
+      }
+    },
+    {
+      "date": "2008-04",
+      "news": [
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Rallies 12% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Holds Rates Steady, Signals Data Dependence",
+          "summary": "Policymakers content to watch and wait; markets read the tea leaves."
+        }
+      ],
+      "prices": {
+        "MSFT": 29.13,
+        "AAPL": 11.73,
+        "AMZN": 78.05,
+        "CSCO": 24.94,
+        "INTC": 23.32,
+        "ORCL": 20.89,
+        "SUNW": 4.55,
+        "YHOO": 26.22,
+        "EBAY": 29.85,
+        "QCOM": 47.31
+      }
+    },
+    {
+      "date": "2008-05",
+      "news": [
+        {
+          "ticker": "YHOO",
+          "headline": "Microsoft Walks Away From Yahoo Deal",
+          "summary": "Yang holds out for more; shareholders are furious as the premium evaporates."
+        }
+      ],
+      "prices": {
+        "MSFT": 27.62,
+        "AAPL": 11.11,
+        "AMZN": 74.44,
+        "CSCO": 23.84,
+        "INTC": 22.46,
+        "ORCL": 20.31,
+        "SUNW": 4.36,
+        "YHOO": 29.12,
+        "EBAY": 29.15,
+        "QCOM": 48.23
+      }
+    },
+    {
+      "date": "2008-06",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Mixed Economic Data Keeps Traders Guessing",
+          "summary": "Jobs report and consumer confidence pull in opposite directions."
+        },
+        {
+          "ticker": "MACRO",
+          "headline": "Earnings Season Delivers Modest Beats Across Tech",
+          "summary": "Guidance is conservative but balance sheets keep strengthening."
+        }
+      ],
+      "prices": {
+        "MSFT": 26.12,
+        "AAPL": 10.5,
+        "AMZN": 70.84,
+        "CSCO": 22.74,
+        "INTC": 21.61,
+        "ORCL": 19.74,
+        "SUNW": 4.16,
+        "YHOO": 27.84,
+        "EBAY": 28.45,
+        "QCOM": 49.14
+      }
+    },
+    {
+      "date": "2008-07",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "iPhone 3G and App Store Launch",
+          "summary": "The software platform era begins — 500 apps at launch, 10M downloads in a weekend."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 7% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        }
+      ],
+      "prices": {
+        "MSFT": 25.11,
+        "AAPL": 9.8,
+        "AMZN": 66.91,
+        "CSCO": 22.33,
+        "INTC": 21.14,
+        "ORCL": 19.33,
+        "SUNW": 3.96,
+        "YHOO": 26.55,
+        "EBAY": 26.51,
+        "QCOM": 47.66
+      }
+    },
+    {
+      "date": "2008-08",
+      "news": [
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 7% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Falls 7% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 24.11,
+        "AAPL": 9.1,
+        "AMZN": 62.97,
+        "CSCO": 21.93,
+        "INTC": 20.68,
+        "ORCL": 18.92,
+        "SUNW": 3.76,
+        "YHOO": 25.26,
+        "EBAY": 24.57,
+        "QCOM": 46.18
+      }
+    },
+    {
+      "date": "2008-09",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "LEHMAN BROTHERS BANKRUPT — Global Financial Meltdown",
+          "summary": "AIG nationalized, money markets break the buck, TARP passed amid panic. Everything sells off together."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Slides 8% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Falls 8% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.11,
+        "AAPL": 8.4,
+        "AMZN": 59.04,
+        "CSCO": 21.52,
+        "INTC": 20.22,
+        "ORCL": 18.52,
+        "SUNW": 3.56,
+        "YHOO": 23.98,
+        "EBAY": 22.64,
+        "QCOM": 44.7
+      }
+    },
+    {
+      "date": "2008-10",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Worst Month Since 1987 — Forced Liquidation Everywhere",
+          "summary": "Hedge fund deleveraging cascades; even profitable tech leaders get indiscriminately dumped."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Slides 17% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Falls 15% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.1,
+        "AAPL": 7.63,
+        "AMZN": 53.14,
+        "CSCO": 19.93,
+        "INTC": 18.3,
+        "ORCL": 17.47,
+        "SUNW": 3.27,
+        "YHOO": 19.88,
+        "EBAY": 19.23,
+        "QCOM": 42.2
+      }
+    },
+    {
+      "date": "2008-11",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Obama Wins as Economy Sheds 500k Jobs in a Month",
+          "summary": "No election relief rally — the selling continues into year-end."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Slides 21% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Falls 18% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 19.11,
+        "AAPL": 6.87,
+        "AMZN": 47.28,
+        "CSCO": 18.36,
+        "INTC": 16.4,
+        "ORCL": 16.43,
+        "SUNW": 2.97,
+        "YHOO": 15.8,
+        "EBAY": 15.84,
+        "QCOM": 39.74
+      }
+    },
+    {
+      "date": "2008-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Fed Cuts to Zero, Launches QE",
+          "summary": "The nuclear option deployed. Despair is total — historically a fertile setup."
+        },
+        {
+          "ticker": "YHOO",
+          "headline": "YHOO Slides 26% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Falls 22% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.1,
+        "AAPL": 6.1,
+        "AMZN": 41.37,
+        "CSCO": 16.77,
+        "INTC": 14.49,
+        "ORCL": 15.38,
+        "SUNW": 2.68,
+        "YHOO": 11.7,
+        "EBAY": 12.43,
+        "QCOM": 37.25
+      }
+    },
+    {
+      "date": "2009-01",
+      "news": [
+        {
+          "ticker": "SUNW",
+          "headline": "SUNW Rallies 17% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Falls 14% as Sellers Dominate",
+          "summary": "Weak hands exit amid renewed questions on growth durability."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Climbs 8% — Best Month This Year",
+          "summary": "Short covering adds fuel to a fundamentally improving picture."
+        }
+      ],
+      "prices": {
+        "MSFT": 16.59,
+        "AAPL": 5.27,
+        "AMZN": 44.65,
+        "CSCO": 16.19,
+        "INTC": 13.99,
+        "ORCL": 15.82,
+        "SUNW": 3.14,
+        "YHOO": 12.07,
+        "EBAY": 11.9,
+        "QCOM": 36.51
+      }
+    },
+    {
+      "date": "2009-02",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Slides 16% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "SUNW Jumps 15% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Climbs 7% — Best Month This Year",
+          "summary": "Short covering adds fuel to a fundamentally improving picture."
+        }
+      ],
+      "prices": {
+        "MSFT": 16.09,
+        "AAPL": 4.44,
+        "AMZN": 47.94,
+        "CSCO": 15.62,
+        "INTC": 13.49,
+        "ORCL": 16.26,
+        "SUNW": 3.6,
+        "YHOO": 12.43,
+        "EBAY": 11.36,
+        "QCOM": 35.77
+      }
+    },
+    {
+      "date": "2009-03",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Market Bottoms March 9 — Explosive Rally Begins",
+          "summary": "From maximum pessimism, the S&P rips 25% in three weeks. The generational buying opportunity."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Slides 19% on Profit Taking",
+          "summary": "Traders lock in gains; the long-term trend remains the key debate."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "SUNW Jumps 13% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 15.59,
+        "AAPL": 3.6,
+        "AMZN": 51.22,
+        "CSCO": 15.04,
+        "INTC": 13,
+        "ORCL": 16.7,
+        "SUNW": 4.06,
+        "YHOO": 12.79,
+        "EBAY": 10.83,
+        "QCOM": 35.02
+      }
+    },
+    {
+      "date": "2009-04",
+      "news": [
+        {
+          "ticker": "ORCL",
+          "headline": "Oracle Buys Sun Microsystems for $7.4B",
+          "summary": "SUNW holders get a surprise exit; Ellison scoops up Java and Solaris at fire-sale prices."
+        },
+        {
+          "ticker": "SUNW",
+          "headline": "SUNW Rallies 66% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Jumps 13% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 17.1,
+        "AAPL": 3.92,
+        "AMZN": 57.93,
+        "CSCO": 16.09,
+        "INTC": 13.85,
+        "ORCL": 18.33,
+        "SUNW": 6.74,
+        "YHOO": 13.18,
+        "EBAY": 12.23,
+        "QCOM": 36.47
+      }
+    },
+    {
+      "date": "2009-05",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 12% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Jumps 12% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        },
+        {
+          "ticker": "ORCL",
+          "headline": "ORCL Climbs 9% — Best Month This Year",
+          "summary": "Short covering adds fuel to a fundamentally improving picture."
+        }
+      ],
+      "prices": {
+        "MSFT": 18.61,
+        "AAPL": 4.24,
+        "AMZN": 64.63,
+        "CSCO": 17.14,
+        "INTC": 14.7,
+        "ORCL": 19.96,
+        "SUNW": 7,
+        "YHOO": 13.57,
+        "EBAY": 13.64,
+        "QCOM": 37.91
+      }
+    },
+    {
+      "date": "2009-06",
+      "news": [
+        {
+          "ticker": "AAPL",
+          "headline": "iPhone 3GS Launches; Steve Jobs Returns From Medical Leave",
+          "summary": "The comeback king returns to the helm with the stock recovering sharply."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 10% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Jumps 10% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 20.12,
+        "AAPL": 4.56,
+        "AMZN": 71.33,
+        "CSCO": 18.19,
+        "INTC": 15.55,
+        "ORCL": 20.63,
+        "SUNW": 7.26,
+        "YHOO": 13.95,
+        "EBAY": 15.04,
+        "QCOM": 39.35
+      }
+    },
+    {
+      "date": "2009-07",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "Amazon Buys Zappos for $1.2B, Beats Earnings",
+          "summary": "The everything store expands while cloud whispers grow into a roar."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "MSFT",
+          "headline": "MSFT Jumps 8% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 21.63,
+        "AAPL": 4.89,
+        "AMZN": 78.03,
+        "CSCO": 19.24,
+        "INTC": 16.4,
+        "ORCL": 21.3,
+        "SUNW": 7.52,
+        "YHOO": 14.34,
+        "EBAY": 16.45,
+        "QCOM": 40.79
+      }
+    },
+    {
+      "date": "2009-08",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Jumps 9% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        },
+        {
+          "ticker": "MSFT",
+          "headline": "MSFT Climbs 7% — Best Month This Year",
+          "summary": "Short covering adds fuel to a fundamentally improving picture."
+        }
+      ],
+      "prices": {
+        "MSFT": 23.14,
+        "AAPL": 5.21,
+        "AMZN": 84.73,
+        "CSCO": 20.3,
+        "INTC": 17.25,
+        "ORCL": 21.98,
+        "SUNW": 7.78,
+        "YHOO": 14.73,
+        "EBAY": 17.85,
+        "QCOM": 42.23
+      }
+    },
+    {
+      "date": "2009-09",
+      "news": [
+        {
+          "ticker": "QCOM",
+          "headline": "Smartphone Boom Lifts Qualcomm Royalties",
+          "summary": "Android handsets multiply — every one of them pays Qualcomm."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 11% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Jumps 10% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 24.67,
+        "AAPL": 5.71,
+        "AMZN": 94.42,
+        "CSCO": 21.36,
+        "INTC": 18.11,
+        "ORCL": 22.66,
+        "SUNW": 8.05,
+        "YHOO": 15.13,
+        "EBAY": 19.27,
+        "QCOM": 43.71
+      }
+    },
+    {
+      "date": "2009-10",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 10% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Jumps 9% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Climbs 7% — Best Month This Year",
+          "summary": "Short covering adds fuel to a fundamentally improving picture."
+        }
+      ],
+      "prices": {
+        "MSFT": 26.18,
+        "AAPL": 6.21,
+        "AMZN": 104.04,
+        "CSCO": 22.42,
+        "INTC": 18.96,
+        "ORCL": 23.34,
+        "SUNW": 8.31,
+        "YHOO": 15.51,
+        "EBAY": 20.68,
+        "QCOM": 45.15
+      }
+    },
+    {
+      "date": "2009-11",
+      "news": [
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 9% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Jumps 8% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        },
+        {
+          "ticker": "EBAY",
+          "headline": "EBAY Climbs 7% — Best Month This Year",
+          "summary": "Short covering adds fuel to a fundamentally improving picture."
+        }
+      ],
+      "prices": {
+        "MSFT": 27.69,
+        "AAPL": 6.71,
+        "AMZN": 113.66,
+        "CSCO": 23.47,
+        "INTC": 19.81,
+        "ORCL": 24.01,
+        "SUNW": 8.57,
+        "YHOO": 15.9,
+        "EBAY": 22.09,
+        "QCOM": 46.6
+      }
+    },
+    {
+      "date": "2009-12",
+      "news": [
+        {
+          "ticker": "MACRO",
+          "headline": "Decade in Review: From Dot-Com Peak to iPhone Era",
+          "summary": "The 2000s destroyed weak business models and minted new giants. AAPL +900%, AMZN +900%, SUNW -88%. On to the next decade."
+        },
+        {
+          "ticker": "AMZN",
+          "headline": "AMZN Rallies 8% as Momentum Builds",
+          "summary": "Buyers step in aggressively; volume trends confirm institutional accumulation."
+        },
+        {
+          "ticker": "AAPL",
+          "headline": "AAPL Jumps 8% on Analyst Upgrades",
+          "summary": "Wall Street warms to the story as earnings estimates drift higher."
+        }
+      ],
+      "prices": {
+        "MSFT": 29.2,
+        "AAPL": 7.22,
+        "AMZN": 123.29,
+        "CSCO": 24.52,
+        "INTC": 20.66,
+        "ORCL": 24.68,
+        "SUNW": 8.83,
+        "YHOO": 16.29,
+        "EBAY": 23.49,
+        "QCOM": 48.04
+      }
+    }
+  ]
+}
