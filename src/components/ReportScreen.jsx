@@ -88,8 +88,8 @@ export default function ReportScreen() {
         <div className="h-80">
           <ResponsiveContainer width="100%" height="100%">
             <LineChart data={game.history} margin={{ top: 8, right: 16, bottom: 4, left: 8 }}>
-              <CartesianGrid stroke="#1e293b" strokeDasharray="3 3" />
-              <XAxis dataKey="date" stroke="#64748b" fontSize={11} tickMargin={6} />
+              <CartesianGrid stroke="var(--chart-grid)" strokeDasharray="3 3" />
+              <XAxis dataKey="date" stroke="var(--chart-axis)" fontSize={11} tickMargin={6} />
               <YAxis
                 stroke="#64748b"
                 fontSize={11}
@@ -97,7 +97,12 @@ export default function ReportScreen() {
                 width={56}
               />
               <Tooltip
-                contentStyle={{ background: '#0f172a', border: '1px solid #334155', borderRadius: 8, fontSize: 12 }}
+                contentStyle={{
+                  background: 'var(--chart-tooltip-bg)',
+                  border: '1px solid var(--chart-tooltip-border)',
+                  borderRadius: 8,
+                  fontSize: 12,
+                }}
                 formatter={(v) => fmtMoney(v)}
               />
               <Legend />

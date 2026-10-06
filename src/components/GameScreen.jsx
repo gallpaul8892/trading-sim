@@ -26,7 +26,7 @@ export default function GameScreen() {
     <div className="min-h-screen flex flex-col">
       {/* Header Dashboard */}
       <header className="bg-slate-900 border-b border-slate-800 px-4 py-3">
-        <div className="max-w-[1600px] mx-auto flex flex-wrap items-center gap-x-8 gap-y-3">
+        <div className="max-w-[1600px] mx-auto flex flex-wrap items-center gap-x-8 gap-y-3 sm:pr-36">
           <div>
             <div className="text-[10px] uppercase tracking-widest text-slate-500">Date</div>
             <div className="text-lg font-bold font-mono">{step.date}</div>

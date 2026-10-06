@@ -25,11 +25,12 @@ npm.cmd run build                   # production build
 ## How to Play
 
 1. Pick a difficulty (Casual $100k/1x, Traded Desk $25k/2x, Hedge Fund $10k/5x).
-2. Each month, read the news wire, then place trades in the Trading Desk.
-3. Click **Advance to Next Date** — prices move, fees and borrow costs accrue,
+2. Use the Light mode / Dark mode button to choose a theme; your preference is saved in this browser.
+3. Each month, read the news wire, then place trades in the Trading Desk.
+4. Click **Advance to Next Date** — prices move, fees and borrow costs accrue,
    and margin maintenance is enforced. If your Equity / Exposure ratio falls
    below the maintenance level, the engine force-liquidates your worst position.
-4. Survive to Dec 2009 and compare your equity curve against buy-and-hold.
+5. Survive to Dec 2009 and compare your equity curve against buy-and-hold.
 
 ## Architecture
 

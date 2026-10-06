@@ -136,8 +136,13 @@ export default function TradingDesk() {
             </defs>
             <YAxis domain={['dataMin', 'dataMax']} hide />
             <Tooltip
-              contentStyle={{ background: '#0f172a', border: '1px solid #334155', borderRadius: 8, fontSize: 12 }}
-              labelStyle={{ color: '#94a3b8' }}
+              contentStyle={{
+                background: 'var(--chart-tooltip-bg)',
+                border: '1px solid var(--chart-tooltip-border)',
+                borderRadius: 8,
+                fontSize: 12,
+              }}
+              labelStyle={{ color: 'var(--chart-tooltip-label)' }}
               formatter={(v) => [`$${Number(v).toFixed(2)}`, ticker]}
             />
             <Area type="monotone" dataKey="price" stroke="#34d399" strokeWidth={2} fill="url(#px)" />
